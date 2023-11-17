@@ -1,23 +1,24 @@
+# Sentiment Analysis using IMDB Dataset
 
-
-# Sentiment Analysis using IMDB dataset
-This project is about performing sentiment analysis on the IMDB dataset using machine learning techniques. The IMDB dataset consists of 50,000 movie reviews, which are labeled as either positive or negative.
+This project focuses on performing sentiment analysis on the IMDB dataset using machine learning techniques. The IMDB dataset consists of 50,000 movie reviews, which are labeled as either positive or negative.
 
 ## Requirements
-Python 3.x
-Jupyter Notebook
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-NLTK
+- Python 3.x
+- Jupyter Notebook
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- NLTK
+
 ## Installation
-Clone the repository: git clone https://github.com/your_username/sentiment-analysis-imdb.git
-Install the required packages: pip install -r requirements.txt
-Download the IMDB dataset from here.
-Extract the dataset and place it in the project directory.
-Usage
-Open sentiment_analysis.ipynb in Jupyter Notebook.
-Run all the cells in the notebook.
-The trained model will be saved as a pickle file in the same directory.
-You can use this model to predict the sentiment of any text.
+1. Clone the repository: `git clone https://github.com/your_username/sentiment-analysis-imdb.git`
+2. Install the required packages: `pip install -r requirements.txt`
+3. Download the IMDB dataset from [here](link-to-the-dataset).
+4. Extract the dataset and place it in the project directory.
+
+## Usage
+1. Open `sentiment_analysis.ipynb` in Jupyter Notebook.
+2. Run all the cells in the notebook.
+3. The trained model will be saved as a pickle file in the same directory.
+4. You can use this model to predict the sentiment of any text.
