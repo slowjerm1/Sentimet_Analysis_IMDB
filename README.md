@@ -14,7 +14,7 @@ This project focuses on performing sentiment analysis on the IMDB dataset using 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your_username/sentiment-analysis-imdb.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Download the IMDB dataset from [here](link-to-the-dataset).
+3. Download the IMDB dataset from [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 4. Extract the dataset and place it in the project directory.
 
 ## Usage
